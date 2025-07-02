@@ -1,0 +1,1 @@
+CREATE TABLE score (playerid INTEGER NOT NULL PRIMARY KEY, playername TEXT NOT NULL, win INTEGER, loss INTEGER, plays INTEGER, winrate REAL)
